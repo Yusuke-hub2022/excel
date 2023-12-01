@@ -14,3 +14,7 @@ npm がすでにインストールされているものとします。
 
 アプリケーションが開発モードで実行されます。\
 ブラウザで [http://localhost:3000](http://localhost:3000) を開くと見ることができます。
+
+## デモ
+
+[https://sakurasaku2011.sakura.ne.jp/prog/excel/](https://sakurasaku2011.sakura.ne.jp/prog/excel/)
