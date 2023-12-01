@@ -9,6 +9,7 @@ const propsDefault = {
   table: {
     data: [["data1", "data2"]],
     search: false,
+    preSearchData: null,
   },
   tools: {
     search: jest.fn((_) => 'search'),
@@ -20,7 +21,8 @@ const propsSearch = {
   headers: ["head1", "head2"],
   table: {
     data: [["data1", "data2"]],
-    search: true, // <-- search
+    search: true,
+    preSearchData: [['some', 'data']], // <-- search
   },
   tools: {
     search: jest.fn((_) => 'search'),
