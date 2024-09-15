@@ -4,4 +4,4 @@
 
 ## デモ
 
-[https://sakurasaku2011.sakura.ne.jp/prog/excel/](https://sakurasaku2011.sakura.ne.jp/prog/excel/)
+[http://sakurasaku24.starfree.jp/prog/excel/](http://sakurasaku24.starfree.jp/prog/excel/)
